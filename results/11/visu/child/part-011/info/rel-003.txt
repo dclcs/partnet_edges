@@ -1,0 +1,4 @@
+type: adj
+part_a: 17
+part_b: 13
+min_dist: 0.020032
